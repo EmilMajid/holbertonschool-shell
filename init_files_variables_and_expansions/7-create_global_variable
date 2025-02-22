@@ -1,2 +1,2 @@
 #!/bin/bash
-Best=School >> ~/.bashrc
+echo export 'Best="School"' >> ~/.bashrc
